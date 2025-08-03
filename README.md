@@ -34,7 +34,7 @@ It’s a smart system that uses **computer vision and machine learning** to:
 ```
 fruit_sorting_ai/
 │
-├── models/                  # Trained AI model files (YOLO, .tflite, etc.)
+├── models/                  # Trained AI model files (YOLOv4)
 ├── images/                  # Sample images for testing
 ├── src/
 │   ├── camera_stream.py     # Captures video from camera
@@ -53,4 +53,3 @@ fruit_sorting_ai/
 🔗 [LinkedIn – Yasmine Saad](https://www.linkedin.com/in/yasmine-saad-397749278/)  
 
 
-Let me know how far you want to go with it and I’ll tailor everything to your level and goal.
