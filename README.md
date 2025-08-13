@@ -1,4 +1,4 @@
-# Fruit-detection-witth-Yolov4
+# Fruit-detection
 
 ## 🍎 What is an AI-Powered Fruit Detection and Sorting System?
 
@@ -15,7 +15,7 @@ It’s a smart system that uses **computer vision and machine learning** to:
 | -------------------------- | -------------------------------------- |
 | **Programming Language**   | Python                                 |
 | **Camera**                 | Webcam, Raspberry Pi Camera, RealSense |
-| **Object Detection Model** | YOLOv4, TensorFlow,    |
+| **Object Detection Model** | Image processing   |
 | **Sorting Mechanism**      | Robotic arm (on webots)  |
 | **GUI **                   | OpenCV               |
 
